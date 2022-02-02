@@ -1,4 +1,4 @@
-# PDE-contrained_acoustic_cloak
+# PDE-constrained_acoustic_cloak
  Codes for paper
  
  The main is called Cloak_soft.m, by changing the main data at the beginning of the code it is possible to run the different cases discussed in the related article.
